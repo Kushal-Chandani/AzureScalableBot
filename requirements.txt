@@ -1,0 +1,8 @@
+streamlit
+azure-storage-blob
+azure-search-documents
+azure-ai-formrecognizer
+PyPDF2
+requests
+transformers
+torch
