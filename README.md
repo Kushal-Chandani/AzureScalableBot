@@ -24,3 +24,14 @@ Our bot processes publicly available legal documents from Pakistani regulations 
 ## 🎯 Use Case Example
 - Query: "What is the termination notice period in this contract?"
 - Bot Response: "The contract requires a 30-day written notice for termination."
+
+## Legal and Regulatory Resources
+
+- **Pakistani Regulations**: [pakistancode.gov.pk](https://pakistancode.gov.pk)  
+  Includes downloadable PDFs.
+- **U.S. Code and Related Documents**: [govinfo.gov](https://www.govinfo.gov)  
+  Example: Title 18 of the U.S. Code, includes downloadable PDFs.
+- **UK Statutes**: [legislation.gov.uk](https://www.legislation.gov.uk)
+- **European Court of Human Rights Cases**: [hudoc.echr.coe.int](https://hudoc.echr.coe.int)
+- **German Court Decisions** (JSON format): [openlegaldata.io](https://openlegaldata.io)
+- **International Court of Justice**: [icj-cij.org](https://www.icj-cij.org/list-of-all-cases)
